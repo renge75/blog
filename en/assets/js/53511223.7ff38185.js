@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2231],{4690:e=>{e.exports=JSON.parse('{"permalink":"/renge75/en/blog/tags/\u90e8\u7f72","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

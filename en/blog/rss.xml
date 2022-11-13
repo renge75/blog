@@ -4,10 +4,20 @@
         <title>运维开发经验记录 Blog</title>
         <link>https://renge75.github.io/renge75/en/blog</link>
         <description>运维开发经验记录 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[github-Pages]]></title>
+            <link>https://renge75.github.io/renge75/en/blog/github-pages</link>
+            <guid>github-pages</guid>
+            <pubDate>Sat, 13 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天制作一个静态blog]]></description>
+            <content:encoded><![CDATA[<p>今天制作一个静态blog</p>]]></content:encoded>
+            <category>部署</category>
+            <category>自动化</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://renge75.github.io/renge75/en/blog/welcome</link>

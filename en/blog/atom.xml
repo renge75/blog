@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://renge75.github.io/renge75/en/blog</id>
     <title>运维开发经验记录 Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2021-11-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://renge75.github.io/renge75/en/blog"/>
     <subtitle>运维开发经验记录 Blog</subtitle>
     <icon>https://renge75.github.io/renge75/en/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[github-Pages]]></title>
+        <id>github-pages</id>
+        <link href="https://renge75.github.io/renge75/en/blog/github-pages"/>
+        <updated>2021-11-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今天制作一个静态blog]]></summary>
+        <content type="html"><![CDATA[<p>今天制作一个静态blog</p>]]></content>
+        <author>
+            <name>renge75</name>
+            <uri>https://github.com/renge75</uri>
+        </author>
+        <category label="部署" term="部署"/>
+        <category label="自动化" term="自动化"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
