@@ -9,7 +9,7 @@ const config = {
   title: '运维开发经验记录',
   tagline: '3年运维开发经验分享记录',
   url: 'https://renge75.github.io',
-  baseUrl: '/',
+  baseUrl: '/blog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
